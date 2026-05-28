@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersender",
+        "uuid": 20686578,
+        "checksum": "rfh4ml"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
